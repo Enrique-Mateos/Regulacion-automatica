@@ -1,0 +1,422 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.10.31" producer="main_bin">
+  <profile description="automatic" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="496170000" frame_rate_den="16934393" colorspace="601"/>
+  <chain id="chain0" out="00:03:08.157">
+    <property name="length">00:03:08.191</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/1.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d23cead285427a32a412b62086af6e0e</property>
+    <property name="ignore_points">0</property>
+    <property name="creation_time">2021-12-14T14:45:08</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain1" out="00:04:37.816">
+    <property name="length">00:04:37.850</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/1a.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">49d7d8ccae391281ac93fa094615771a</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">1a.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+  </chain>
+  <chain id="chain2" out="00:03:23.140">
+    <property name="length">00:03:23.174</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/1b.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0f8d5153f2761c002fe80b1b957fc0a4</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">1b.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+  </chain>
+  <chain id="chain3" out="00:01:50.513">
+    <property name="length">00:01:50.547</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/2.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bc1a6a04e1e625d4c0163bc091180b63</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">2.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+  </chain>
+  <chain id="chain4" out="00:01:30.137">
+    <property name="length">00:01:30.171</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/3.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9b14fb5fc0383adbd79613ad56f9543d</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">3.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+  </chain>
+  <chain id="chain5" out="00:05:02.457">
+    <property name="length">00:05:02.492</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/balancin 1.avi</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c1c9a92b53c3b9a67ca30f6fff76e2e0</property>
+  </chain>
+  <chain id="chain6" out="00:05:34.745">
+    <property name="length">00:05:34.779</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/balancin 1a.avi</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0c1a015bcc4e1c11b76bf07924d2d35a</property>
+  </chain>
+  <chain id="chain7" out="00:04:09.830">
+    <property name="length">00:04:09.864</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/balancin 2.avi</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b058301a1f84121c59bb4aa31fb57600</property>
+  </chain>
+  <chain id="chain8" out="00:04:58.977">
+    <property name="length">00:04:59.011</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/balancin 4.avi</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3d007682e7d5a90fd6c00039b1a65121</property>
+  </chain>
+  <chain id="chain9" in="00:00:09.522" out="00:03:08.157">
+    <property name="length">00:03:08.191</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/1 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">9b074692d498f0aa5baf6f05c848a35c</property>
+    <property name="shotcut:caption">1 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">1</property>
+  </chain>
+  <chain id="chain10" out="00:04:37.782">
+    <property name="length">00:04:37.816</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/1a - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">56a4a73809e4cf1adffa1a9808172b22</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain11" out="00:03:23.140">
+    <property name="length">00:03:23.174</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/1b - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">cd1b61bd41ed31bacd35c9f100f79d4b</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain12" out="00:01:50.513">
+    <property name="length">00:01:50.547</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/2 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">a28f01f2f86410406d4ed452cc13bcda</property>
+    <property name="shotcut:caption">2 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain13" out="00:01:30.137">
+    <property name="length">00:01:30.171</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/3 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">03492cf527bbe4665bb055fc44d49b4d</property>
+    <property name="shotcut:caption">3 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain14" out="00:05:02.457">
+    <property name="length">00:05:02.492</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/balancin 1 - Convertido.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">b02d2ff69df80e161055469d43b492a8</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain15" out="00:04:09.830">
+    <property name="length">00:04:09.864</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/balancin 2 - Convertido.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">7a575403f57afc70460bb37dbf60b3a7</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="main_bin" title="Shotcut version 21.10.31">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:03:08.157"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:04:37.816"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:03:23.140"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:01:50.513"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:01:30.137"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:04.949"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:05:34.745"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:04.949"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:04:58.977"/>
+    <entry producer="chain9" in="00:00:09.522" out="00:03:08.157"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:04:37.782"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:03:23.140"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:01:50.513"/>
+    <entry producer="chain13" in="00:00:00.000" out="00:01:30.137"/>
+    <entry producer="chain14" in="00:00:00.000" out="00:05:02.457"/>
+    <entry producer="chain15" in="00:00:00.000" out="00:04:09.830"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:06:10.512">
+    <property name="length">00:06:10.546</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:06:10.512"/>
+  </playlist>
+  <chain id="chain16" out="00:03:08.157">
+    <property name="length">00:03:08.191</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/1 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">9b074692d498f0aa5baf6f05c848a35c</property>
+    <property name="shotcut:caption">1 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+    <property name="ignore_points">0</property>
+  </chain>
+  <chain id="chain17" out="00:01:50.513">
+    <property name="length">00:01:50.547</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/2 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">a28f01f2f86410406d4ed452cc13bcda</property>
+    <property name="shotcut:caption">2 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain18" out="00:01:30.137">
+    <property name="length">00:01:30.171</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/3 - Convertido.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">03492cf527bbe4665bb055fc44d49b4d</property>
+    <property name="shotcut:caption">3 - Convertido.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">0</property>
+    <entry producer="chain16" in="00:00:09.522" out="00:03:08.157"/>
+    <entry producer="chain17" in="00:00:00.000" out="00:01:50.513"/>
+    <entry producer="chain18" in="00:00:00.000" out="00:01:21.366"/>
+  </playlist>
+  <chain id="chain19" out="00:05:02.457">
+    <property name="length">00:05:02.492</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/balancin 1 - Convertido.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">b02d2ff69df80e161055469d43b492a8</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">balancin 1 - Convertido.mp4</property>
+    <filter id="filter0" in="00:01:57.100" out="00:04:55.530">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">766.974 409.38 511.374 309.6 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain20" out="00:04:09.830">
+    <property name="length">00:04:09.864</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/balancin 2 - Convertido.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">7a575403f57afc70460bb37dbf60b3a7</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">balancin 2 - Convertido.mp4</property>
+    <filter id="filter1" in="00:02:10.614" out="00:04:01.092">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">767.6 408.559 511.374 309.6 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain21" out="00:04:58.977">
+    <property name="length">00:04:59.011</property>
+    <property name="eof">pause</property>
+    <property name="resource">e:/balancin 4.avi</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3d007682e7d5a90fd6c00039b1a65121</property>
+    <property name="shotcut:caption">balancin 4.avi</property>
+    <filter id="filter2" in="00:02:54.131" out="00:04:15.461">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">767.071 408.96 516.129 312.479 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <property name="shotcut:lock">0</property>
+    <entry producer="chain19" in="00:01:57.100" out="00:04:55.530"/>
+    <blank length="00:00:00.171"/>
+    <entry producer="chain20" in="00:02:10.614" out="00:04:01.092"/>
+    <entry producer="chain21" in="00:02:54.131" out="00:04:15.461"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.10.31" in="00:00:00.000" out="00:06:10.512">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.242466</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
